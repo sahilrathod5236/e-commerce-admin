@@ -6,7 +6,7 @@ Description :
 - The Store is managed via the Admin Dashboard.
 - Creating the store and dashboard, categories, products, etc. related to the store is 
 done in the Admin Dashboard.
-- The Store shows the dashboard the featured products created in the Admin Dashboard. 
+- The Store shows the dashboard and the featured products. 
 - The Store features a cart which shows the products in cart and total price of all 
 products in the cart and on checkout redirects to a stripe checkout session.
 

@@ -4,11 +4,10 @@ Description :
 
 - This project contains both, the Admin Dashboard and the Store.
 - The Store is managed via the Admin Dashboard.
-- Creating the store and dashboard, categories, products, etc. related to the store is 
+- Creating the store and billboards, categories, products, etc. related to the store is 
 done in the Admin Dashboard.
-- The Store shows the related billboard and the featured products. 
-- The Store features a cart which shows the products in cart and total price of all 
-products in the cart and on checkout redirects to a stripe checkout session.
+- The Store shows the billboards and the featured products. 
+- The Store features a cart which shows the products in cart and the total price and on checkout redirects to a stripe checkout session.
 
 
 Key Features:
